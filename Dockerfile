@@ -1,4 +1,4 @@
-FROM eboraas/apache
+FROM bernhardesperester/docker-apache:latest
 
 # File Author / Maintainer
 MAINTAINER Bernhard Esperester <bernhard@esperester.de>
